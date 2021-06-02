@@ -1,0 +1,16 @@
+#printValues {
+    font-size: 12px;
+    padding: 1px 20px;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 50px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    max-width: 150px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+}

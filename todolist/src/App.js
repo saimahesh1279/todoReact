@@ -1,5 +1,7 @@
-import React, { useEffect, useState } from 'react';
 import './App.css';
+import TodoList from './component/TodoList';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
     return ( <

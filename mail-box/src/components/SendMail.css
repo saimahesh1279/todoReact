@@ -1,0 +1,106 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.ComposeButton {
+    width: 80%;
+    background-color: #30c7a7 !important;
+    margin-bottom: 20px;
+    border: none !important;
+}
+
+.Folder {
+    font-size: 16px !important;
+    font-weight: bold;
+    font-family: 'open Sans', sans-serif !important;
+}
+
+.FolderList {
+    width: 90%;
+    border-bottom: 1px solid #c3c5c7 !important;
+    margin-bottom: 20px;
+}
+
+.fold {
+    margin-left: 30px;
+}
+
+.category {
+    margin-top: 20px;
+    font-size: 16px !important;
+    font-weight: bold;
+    font-family: 'open Sans', sans-serif !important;
+}
+
+.cat {
+    margin-left: 30px;
+    border: none !important;
+}
+
+.labels {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.label {
+    margin-left: 20px;
+}
+
+.lab {
+    margin: 5px;
+    border-left: 1px solid #c3c5c7 !important;
+    border-radius: 5px !important;
+}
+
+.right {
+    width: 70%;
+}
+
+.btnn {
+    border: 1px solid #c3c5c7 !important;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.btnn-arr {
+    border: 1px solid #c3c5c7 !important;
+    margin-left: 20px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.pull-right {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 700px;
+}
+
+.searchinput {
+    margin-top: 20px !important;
+    height: 30px !important;
+    width: 200px !important;
+    border-radius: 5px;
+    border: 1px solid #e7eaec;
+}
+
+.input-append {
+    display: flex !important;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.input-append button {
+    height: 30px;
+    background-color: #30c7a7;
+    font-size: 12px;
+    border: none !important;
+    width: 60px;
+    margin-right: 20px;
+}
+
+.rute {
+    border: none !important;
+}

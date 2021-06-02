@@ -1,0 +1,332 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    background-color: #f3f3f4;
+}
+
+.LeftContainer {
+    background-color: transparent;
+}
+
+.col-md-3 {
+    height: 100%;
+    background-color: #f3f3f4;
+}
+
+.btn {
+    margin-left: 50px;
+    margin-top: 20px;
+    color: black;
+    opacity: 0.8;
+    background-color: none;
+}
+
+.cat {
+    font-size: 14px !important;
+    margin-top: 10px !important;
+    border: none !important;
+    border-bottom: none !important;
+}
+
+.fold {
+    margin-right: 5px;
+}
+
+.list {
+    width: 100%;
+    list-style-type: none;
+    font-family: 'open Sans', sans-serif;
+    margin-top: 20px;
+    float: inline-start !important;
+    border-bottom: none !important;
+}
+
+.categories {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#categories {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 1px;
+    color: black;
+}
+
+#labels {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 14% !important;
+    margin-bottom: 5px;
+    color: black;
+}
+
+.labels ul {
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+}
+
+#green {
+    height: 15px;
+    margin-right: 5px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: #00bf96;
+    display: inline-block;
+}
+
+#red {
+    height: 15px;
+    margin-right: 5px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: #f5315e;
+    display: inline-block;
+}
+
+#brown {
+    height: 15px;
+    margin-right: 5px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: #666666;
+    display: inline-block;
+}
+
+#blue {
+    height: 15px;
+    margin-right: 5px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: #00cbca;
+    display: inline-block;
+}
+
+#yellow {
+    height: 15px;
+    margin-right: 5px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: #f9b44e;
+    display: inline-block;
+}
+
+.Folder {
+    font-family: 'open Sans', sans-serif;
+    left: 5px;
+    font-weight: 500;
+    font-size: 14px;
+    color: black;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+.list-group-item:hover {
+    background-color: white !important;
+    color: black;
+}
+
+.Folders {
+    width: 70%;
+    margin-left: 15%;
+    border-bottom: 1px solid lightgray;
+}
+
+.list-group-item {
+    text-align: start;
+    font-size: 13px;
+    background-color: #f3f3f4 !important;
+}
+
+.list {
+    margin-left: 50px;
+}
+
+.list1 {
+    margin: 5px;
+    font-size: 12px;
+    padding: 5px 15px !important;
+    border: 1px solid #B6B4B6 !important;
+    border-radius: 5px !important;
+}
+
+.labels {
+    margin-bottom: 10px;
+}
+
+.column {
+    display: inline;
+    font-family: 'open Sans', sans-serif;
+    font-size: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #e7eaec;
+}
+
+.column:hover {
+    background-color: white;
+}
+
+.main {
+    margin-top: 2%;
+    /* height: 80%; */
+    background-color: #fefefe;
+    border-top: 1px solid #e7eaec;
+}
+
+#ComposeMail {
+    padding-top: 30px;
+    padding-left: 20px;
+    font-size: 24px;
+}
+
+#ComposeMail a {
+    font-family: 'open Sans', sans-serif;
+    color: black;
+    text-decoration: none;
+    opacity: 0.6;
+}
+
+#textarea {
+    margin-top: 0.1px;
+    width: 100%;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.spin-icon {
+    background: #1ab394;
+    position: absolute;
+    padding: 7px 10px 7px 13px;
+    border-radius: 20px 0 0 20px;
+    font-size: 16px;
+    top: 1%;
+    left: 96.7%;
+    width: 40px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.topright {
+    float: right;
+    margin-top: 3%;
+    margin-right: 3%;
+}
+
+#draft {
+    border: 1px solid grey;
+    color: black;
+}
+
+#discard {
+    background-color: red;
+    border: 1px solid red;
+    color: white;
+}
+
+.top {
+    height: 15%;
+    width: 100%;
+}
+
+.col {
+    display: inline-block;
+}
+
+.col a {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    font-family: 'open Sans', sans-serif;
+}
+
+.icons {
+    text-align: center;
+}
+
+.mail-body {
+    padding-left: 5px;
+    margin-top: 7%;
+    left: 2%;
+    color: #7c7a7a;
+    font-size: 12px;
+}
+
+.tool {
+    padding: 20px 35px 10px 5px;
+    background: #f9f8f8;
+    left: 20%;
+    background-color: #e7eaec;
+}
+
+.tool ul li {
+    margin: 2px 2px 2px 5px;
+    width: 50px;
+    height: 20px;
+}
+
+.col2 {
+    display: inline-block;
+    align-content: center;
+}
+
+.col3 {
+    margin-top: 2%;
+    margin-right: 3px;
+    float: right;
+    font-size: 16px;
+    font-family: 'open Sans', sans-serif;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #1ab394;
+    border-color: #1ab394;
+}
+
+.btn-group-sm>.btn,
+.btn-sm {
+    font-size: 16px;
+    border: 1px solid #e7eaec;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+.lable {
+    text-decoration: none;
+    color: black;
+}
+
+.catigory {
+    text-decoration: none;
+    color: black
+}
+
+.inbox {
+    color: black;
+    text-decoration: none;
+}
+
+#send {
+    background: #1bb394;
+    color: white;
+    font-size: medium;
+}
+
+.text-right {
+    margin-left: 720px;
+}
